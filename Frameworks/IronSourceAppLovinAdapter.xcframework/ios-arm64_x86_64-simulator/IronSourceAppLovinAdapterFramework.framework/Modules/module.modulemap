@@ -1,0 +1,6 @@
+framework module IronSourceAppLovinAdapterFramework {
+  umbrella header "IronSourceAppLovinAdapterFramework.h"
+  export *
+
+  module * { export * }
+}
